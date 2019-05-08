@@ -3,4 +3,4 @@
 
 💻YouTube: https://youtu.be/l0JqoMKtinw
 
-📓Blogger: https://s-nadolskiy.blogspot.com/2019/05/javascript-horizontall-scrolling.html
+📓Blogger: https://s-nadolskiy.blogspot.com/2019/05/javascript-horizontal-scrolling.html
